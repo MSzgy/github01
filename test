@@ -4,8 +4,14 @@ public class Main {
   public static void main(String[] args){
     System.out.print("test github");
   }
+<<<<<<< HEAD
 
  public void test1(){
 	System.out.print("测试从电脑提交修改到github");
  }
+=======
+  
+  public void comment1(){};
+>>>>>>> bacbbe09dbbc02c443faa95f65465be796d2d45e
 }
+
